@@ -50,27 +50,6 @@ Ao fim do processo, é gerado um dataframe com os novos clientes e suas respecti
 - Scikit-learn
 - Jupyter Notebook
 
-## 🛠️ Como rodar localmente
-
-1. Instale os pré-requisitos:
-
-   - [Git](https://git-scm.com/downloads)
-   - [Git LFS](https://git-lfs.com/)
-   - [Python](https://www.python.org/downloads/)
-   - [Jupyter Notebook](https://jupyter.org/install)
-
-2. Clone o repositório com Git LFS ativado:
-
-```bash
-git lfs install
-git clone https://github.com/JosielJrr/analise-score-credito.git
-```
-
-## ⚠️ Importante sobre arquivos grandes
-
-Este projeto usa [Git LFS](https://git-lfs.com/) para armazenar arquivos grandes como notebooks e bases de dados.
-Se o Git LFS não estiver instalado, esses arquivos não serão baixados corretamente.
-
 ## 📌 Observação
 
 Modelos de score de crédito não exigem 100% de acurácia. Neste projeto, uma boa taxa de acerto (>80%) já é considerada suficiente para aplicação prática no contexto bancário.

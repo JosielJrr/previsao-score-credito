@@ -1,4 +1,4 @@
-# 🧠 Projeto Python IA: Previsão de Score de Crédito com Machine Learning
+# 🧠 Python IA: Previsão de Score de Crédito com Machine Learning
 
 Este projeto usa inteligência artificial para prever o score de crédito de clientes de um banco. A partir de dados históricos, o modelo classifica novos clientes como tendo um score **Ruim**, **Ok** ou **Bom**.
 

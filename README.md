@@ -1,10 +1,19 @@
 # 🧠 Python IA: Previsão de Score de Crédito com Machine Learning
 
-Este projeto usa inteligência artificial para prever o score de crédito de clientes de um banco. A partir de dados históricos, o modelo classifica novos clientes como tendo um score **Ruim**, **Ok** ou **Bom**.
+Este sistema usa inteligência artificial para prever o score de crédito de clientes de um banco. A partir de dados históricos, o modelo classifica novos clientes como tendo um score **Ruim**, **Ok** ou **Bom**.
 
 ## 📌 Objetivo
 
-Criar um modelo de machine learning capaz de prever automaticamente a classificação de crédito de novos clientes com base em dados históricos.
+Criar um modelo de machine learning que prevê automaticamente a classificação de crédito de novos clientes com base em dados históricos.
+
+## 💻 Como Executar o Projeto
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/JosielJrr/previsao-score-credito.git
+cd previsao-score-credito
+```
+2. Abra o arquivo `inicial.ipynb`  em um ambiente Jupyter.
 
 ## 🗂️ Etapas do Projeto
 
@@ -45,10 +54,9 @@ Ao fim do processo, é gerado um dataframe com os novos clientes e suas respecti
 
 ## 🧪 Tecnologias Utilizadas
 
-- Python 3.x
+- Jupyter Notebook
 - Pandas
 - Scikit-learn
-- Jupyter Notebook
 
 ## 📌 Observação
 
